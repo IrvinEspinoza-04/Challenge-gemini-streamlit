@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered",
 )
 
-MODEL = "gemini-2.5-flash"
+model="gemini-3.8-flash"
 
 ROLE_GUIDANCE = {
     "Desarrollador Python Junior": (
